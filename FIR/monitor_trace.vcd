@@ -1,0 +1,53 @@
+$date
+     Dec 16, 2024       15:31:37
+$end
+
+$version
+ SystemC 3.0.1-Accellera --- Dec  9 2024 15:37:53
+$end
+
+$timescale
+     1 ps
+$end
+
+$scope module SystemC $end
+$var wire   32  aaaaa  filtered_output [31:0]  $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+b0 aaaaa
+$end
+
+#1000
+b1 aaaaa
+
+#2000
+b10 aaaaa
+
+#3000
+b11 aaaaa
+
+#4000
+b100 aaaaa
+
+#5000
+b101 aaaaa
+
+#6000
+b110 aaaaa
+
+#7000
+b111 aaaaa
+
+#8000
+b1000 aaaaa
+
+#9000
+b1001 aaaaa
+
+#10000
